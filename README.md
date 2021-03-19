@@ -14,6 +14,14 @@ Para o desenvolvimento do projeto, foi utilizada a API: <span>https://documenter
 
 ---
 
+## 🖥 Link do Surge
+<h3>
+<a href="http://oafish-design.surge.sh/" target="_blank">Acessar: Astromatch</a>
+</h3>
+
+
+---
+
 ## 🚀️ Telas
 
 <img src="src/assets/imgReadMe/sreen1.png">
@@ -21,14 +29,6 @@ Para o desenvolvimento do projeto, foi utilizada a API: <span>https://documenter
 <img src="src/assets/imgReadMe/screen3.png">
 <img src="src/assets/imgReadMe/screen4.png">
 <img src="src/assets/imgReadMe/screen5.png">
-
-
----
-
-## 🖥 Link do Surge
-<h3>
-<a href="http://oafish-design.surge.sh/" target="_blank">Acessar: Astromatch</a>
-</h3>
 
 
 ---

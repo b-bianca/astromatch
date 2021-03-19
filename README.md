@@ -10,16 +10,19 @@ Projeto Astromatch ✔️ <br>
 
 ## 📝️ Sobre
 Projeto semanal de Frontend da Labenu. A ideia foi desenvolver uma aplicação parecida com o Tinder, onde o usuário vê outros perfis, e pode escolher ou não esse perfil, caso o perfil que o usuário escolheu tbm o escolha, acontece o "match". É possível ver uma lista de matchs e as informações do perfil, além de poder limpar essa lista.
-Para o desenvolvimento do projeto, foi utilizada a API <span>https://documenter.getpostman.com/view/7549981/SW12yx56?version=latest</span>
+Para o desenvolvimento do projeto, foi utilizada a API: <span>https://documenter.getpostman.com/view/7549981/SW12yx56?version=latest</span>
 
 ---
 
 ## 🚀️ Telas
 
-<h1 align=center >
-https://user-images.githubusercontent.com/71153572/99115742-a9143b00-25d1-11eb-98ad-20843225c0cc.png
-
-</h1>
+img src="src/assets/img/gifSplash.gif">
+<img src="src/assets/img/gifProjeto.gif">
+![image](https://user-images.githubusercontent.com/71153572/99115742-a9143b00-25d1-11eb-98ad-20843225c0cc.png)
+![image](https://user-images.githubusercontent.com/71153572/99115805-c0ebbf00-25d1-11eb-8f94-507cb9769df1.png)
+![image](https://user-images.githubusercontent.com/71153572/99115904-f2fd2100-25d1-11eb-8b27-babecdc1b68b.png)
+![image](https://user-images.githubusercontent.com/71153572/99115918-f7c1d500-25d1-11eb-9b8c-24d2741a9c23.png)
+![image](https://user-images.githubusercontent.com/71153572/99115926-fc868900-25d1-11eb-987e-c57f2ad02ad5.png)
 
 ---
 
@@ -37,6 +40,13 @@ https://user-images.githubusercontent.com/71153572/99115742-a9143b00-25d1-11eb-9
 - API: <span>https://documenter.getpostman.com/view/7549981/SW12yx56?version=latest</span>
 - Styled-components
 - Axios
+
+---
+
+### Futuras Melhorias
+
+- Alterações no css
+- Fazer a lista de matchs atualizar sozinha após clicar para limpar(tela lista de matchs)
 
 ---
 

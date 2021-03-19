@@ -18,10 +18,7 @@ Para o desenvolvimento do projeto, foi utilizada a API <span>https://documenter.
 
 <h1 align=center >
 ![image](https://user-images.githubusercontent.com/71153572/99115742-a9143b00-25d1-11eb-98ad-20843225c0cc.png)
-![image](https://user-images.githubusercontent.com/71153572/99115805-c0ebbf00-25d1-11eb-8f94-507cb9769df1.png)
-![image](https://user-images.githubusercontent.com/71153572/99115904-f2fd2100-25d1-11eb-8b27-babecdc1b68b.png)
-![image](https://user-images.githubusercontent.com/71153572/99115918-f7c1d500-25d1-11eb-9b8c-24d2741a9c23.png)
-![image](https://user-images.githubusercontent.com/71153572/99115926-fc868900-25d1-11eb-987e-c57f2ad02ad5.png)
+
 </h1>
 
 ---

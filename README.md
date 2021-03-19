@@ -53,8 +53,6 @@ Para o desenvolvimento do projeto, foi utilizada a API: <span>https://documenter
 
 - Você irá precisar instalar o [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/pt-br/download/) + [Visual Studio code](https://code.visualstudio.com/).
 
-
-
 ```bash
 # Versões mínimas ou superiores.
 $ node -v
@@ -88,7 +86,7 @@ Agora é só testar em seu navegador!
 ```
 ---
 
-### Desenvolvido com 💙️ por
+### Desenvolvido com 💜 por
 
 <a href="https://www.linkedin.com/in/bianca-cmendes/" target="_blank">***Bianca Mendes***</a>
 <br/> 

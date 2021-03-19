@@ -1,70 +1,102 @@
-# Getting Started with Create React App
+<h1 align=center>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto Astromatch ✔️ <br>
 
-## Available Scripts
+<img src="https://camo.githubusercontent.com/a45bd10a7ea5a30b5665d9869b0ce1324fa90350/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374617475732d6163746976652d737563636573732e737667" alt="Status" data-canonical-src="https://img.shields.io/badge/status-active-success.svg" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/890acbdcb87868b382af9a4b1fac507b9659d9bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667" alt="License" data-canonical-src="https://img.shields.io/badge/license-MIT-blue.svg" style="max-width:100%;">
+</h1>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📝️ Sobre
+Projeto semanal de Frontend da Labenu. A ideia foi desenvolver uma aplicação parecida com o Tinder, onde o usuário vê outros perfis, e pode escolher ou não esse perfil, caso o perfil que o usuário escolheu tbm o escolha, acontece o "match". É possível ver uma lista de matchs e as informações do perfil, além de poder limpar essa lista.
+Para o desenvolvimento do projeto, foi utilizada a API: <span>https://documenter.getpostman.com/view/7549981/SW12yx56?version=latest</span>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🚀️ Telas
 
-### `npm test`
+img src="src/assets/img/gifSplash.gif">
+<img src="src/assets/img/gifProjeto.gif">
+![image](https://user-images.githubusercontent.com/71153572/99115742-a9143b00-25d1-11eb-98ad-20843225c0cc.png)
+![image](https://user-images.githubusercontent.com/71153572/99115805-c0ebbf00-25d1-11eb-8f94-507cb9769df1.png)
+![image](https://user-images.githubusercontent.com/71153572/99115904-f2fd2100-25d1-11eb-8b27-babecdc1b68b.png)
+![image](https://user-images.githubusercontent.com/71153572/99115918-f7c1d500-25d1-11eb-9b8c-24d2741a9c23.png)
+![image](https://user-images.githubusercontent.com/71153572/99115926-fc868900-25d1-11eb-987e-c57f2ad02ad5.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Link do Surge:
+<h3>
+<a href="http://oafish-design.surge.sh/" target="_blank">Acessar: Astromatch</a>
+</h3>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🚀️ Tecnologias utilizadas
 
-### `npm run eject`
+- ReactJS
+- API: <span>https://documenter.getpostman.com/view/7549981/SW12yx56?version=latest</span>
+- Styled-components
+- Axios
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Futuras Melhorias
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Alterações no css
+- Fazer a lista de matchs atualizar sozinha após clicar para limpar(tela lista de matchs)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
 
-## Learn More
+### 💾️ Como baixar/testar o projeto
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Você irá precisar instalar o [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/pt-br/download/) + [Visual Studio code](https://code.visualstudio.com/).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+# Versões mínimas ou superiores.
+$ node -v
+v12.19.0
 
-### Analyzing the Bundle Size
+$ npm -v
+6.14.5
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Para configurar, no bash digite os seguinte códigos:
 
-### Making a Progressive Web App
+```bash
+# Clonar o repositório
+$ git clone https://github.com/b-bianca/astromatch.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#Entrar no diretório
+$ cd Astromatch
 
-### Advanced Configuration
+#Abrir projeto no VsCode ou com seu prompt de comando de preferência
+code . ||  cd Astromatch (Passo acima) 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+#Com o terminal aberto rodar o comando
+$ npm install (para instalar as dependências necessárias)
 
-### Deployment
+#Agora só rodar o projeto com o comando
+$ npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+#Pronto projeto abrirá em seu navegador padrão
+Agora é só testar em seu navegador!
 
-### `npm run build` fails to minify
+```
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Desenvolvido com 💙️ por
+
+<a href="https://www.linkedin.com/in/bianca-cmendes/" target="_blank">***Bianca Mendes***</a>
+<br/> 
+<img src="src/assets/img/Linkedin-Logo.png" width="86px">
+
+
+### Licença
+
+Este projeto está licenciado sob a licença MIT - consulte a página [LICENSE](https://opensource.org/licenses/MIT) para obter detalhes.
+

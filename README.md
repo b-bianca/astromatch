@@ -17,7 +17,7 @@ Para o desenvolvimento do projeto, foi utilizada a API <span>https://documenter.
 ## 🚀️ Telas
 
 <h1 align=center >
-![image](https://user-images.githubusercontent.com/71153572/99115742-a9143b00-25d1-11eb-98ad-20843225c0cc.png)
+https://user-images.githubusercontent.com/71153572/99115742-a9143b00-25d1-11eb-98ad-20843225c0cc.png
 
 </h1>
 
